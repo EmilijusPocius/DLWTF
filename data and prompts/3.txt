@@ -8,19 +8,38 @@ Receptas: Sveiki avižiniai sausainiai
 3. Formuok sausainius, kepk 180°C ~15 min.
 
 Prompt: 
-Sugeneruok receptą naudojant ingredientus: avižiniai dribsniai, medus, riešutai, bananai.
+Padaryk detalų receptą iš šių ingredientų: avižiniai dribsniai, medus, riešutai, bananai.
 
 GPT: 
-🥣 Avižinė košė su bananais, medumi ir riešutais
-Ingredientai:
-1 stiklinė avižinių dribsnių
-2 stiklinės vandens arba pieno
+🍌 Avižinių dribsnių dubenėlis su bananais, riešutais ir medumi
+🧂 Ingredientai (1–2 porcijoms):
+50 g (apie pusė stiklinės) avižinių dribsnių
+200 ml pieno arba vandens (arba pusę ir pusę, jei norite kreminės konsistencijos)
 1 bananas
-1 šaukštelis medaus
-saujelė riešutų
+1–2 šaukštai medaus (pagal skonį)
+Saujelė riešutų (apie 20–30 g; lazdyno, migdolų, graikinių ar mišrių)
 
-Gaminimas:
-Užvirk vandenį ar pieną, suberk avižinius dribsnius.
-Virk maišydamas, kol sutirštės.
-Įmaišyk pjaustytą bananą ir medų.
-Patiek su smulkintais riešutais ant viršaus.
+👩‍🍳 Gaminimo eiga:
+1. Paruoškite avižas
+Į nedidelį puodelį arba nedidelį puodą suberkite avižinius dribsnius.
+Užpilkite pienu arba vandeniu.
+Ant vidutinės ugnies kaitinkite, nuolat maišydami, kad nesudegtų, 5–7 minutes, kol avižos taps minkštos ir kremiškos.
+🥄 Jeigu mėgstate tirštesnę košę, naudokite mažiau skysčio; jei skystesnę – daugiau.
+
+2. Paruoškite bananą ir riešutus
+Bananas nulupkite ir supjaustykite griežinėliais.
+Riešutus galima šiek tiek paskrudinti sausame keptuvėje 2–3 minutes, kad atsiskleistų jų aromatas.
+
+3. Sumaišykite ir pagardinkite
+Į išvirtą avižų košę įmaišykite bananą.
+Įpilkite medaus pagal skonį ir gerai išmaišykite.
+Ant viršaus suberkite riešutus.
+
+4. Patiekimas
+Patiekite iš karto, kol košė šilta ir gardi.
+Papildomai galima pagardinti cinamonu, kakava ar džiovintais vaisiais.
+
+🌿 Patarimai ir variacijos:
+Jei norite traškesnio varianto, galima sumaišyti avižas su riešutais ir medumi, sudėti į orkaitę 180 °C ir kepti 10–15 min, kol taps traškūs (gausite savotišką granolą).
+Vietoje banano galima naudoti šviežius arba džiovintus vaisius (obuoliai, obuolių džiovinti gabalėliai, uogos).
+Medų galite pakeisti sirupu (klevų ar datulių), jei norite kitokio saldumo.
