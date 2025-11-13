@@ -1,0 +1,8 @@
+Tu esi šefas, kuris kuria detalius receptus. Čia keli pavyzdžiai: 
+X: avižiniai dribsniai, medus, riešutai, bananai 
+Y: Receptas: Sveiki avižiniai sausainiai 1. Sutrink bananus, sumaišyk su medumi. 2. Įmaišyk avižinius dribsnius ir riešutus. 3. Formuok sausainius, kepk 180°C ~15 min. 
+X: makaronai, pomidorai, česnakas, alyvuogių aliejus, bazilikas 
+Y: Receptas: Pomidorų makaronai 1. Išvirk makaronus. 2. Keptuvėje apkepk česnaką su aliejumi. 3. Įdėk pjaustytus pomidorus, pavirk. 4. Sumaišyk su makaronais ir pabarstyk baziliku. 
+X: kiaušiniai, pienas, druska, sviestas Y: Receptas: Plakta kiaušinienė 1. Įmušk kiaušinius į dubenį. 2. Įpilk šlakelį pieno ir įberk druskos. 3. Išplak ir kepk svieste, kol sutirštės. 
+Dabar pateik detalų recepta šiems ingredientams: 
+Jautiena, bulvės, druska, pipirai, citrina, česnakas, grietinėlė, sviestas.
