@@ -8,18 +8,43 @@ Receptas: Plakta kiaušinienė
 3. Išplak ir kepk svieste, kol sutirštės.
 
 Prompt: 
-Sugeneruok receptą naudojant ingredientus: kiaušiniai, pienas, druska, sviestas.
+Padaryk detalų receptą iš šių ingredientų: kiaušiniai, pienas, druska, sviestas.
 
 GPT: 
-🍳 Paprasta kiaušinienė su pienu
-Ingredientai:
-3 kiaušiniai
-50 ml pieno
-žiupsnelis druskos
-1 šaukštas sviesto
+🥚 Purus kiaušinių omletas
+🧂 Ingredientai (2 porcijoms):
+4 kiaušiniai
+4 šaukštai (apie 60 ml) pieno
+1/4 arbatinio šaukštelio druskos (ar pagal skonį)
+1 šaukštas (apie 15 g) sviesto
 
-Gaminimas:
-Dubenyje išplak kiaušinius su pienu ir druska.
-Keptuvėje ištirpink sviestą ant vidutinės ugnies.
-Supilk kiaušinių masę ir kepk maišydamas, kol sutirštės.
-Patiek šiltą, galima su duona ar pomidorais.
+👩‍🍳 Gaminimo eiga:
+1. Paruoškite kiaušinių mišinį
+Į vidutinio dydžio dubenį įmuškite kiaušinius.
+Įpilkite pieną ir suberkite druską.
+Gerai išplakite šakute arba plakikliu, kol masė taps vientisa, šviesiai gelsva ir šiek tiek putota.
+🧁 Kuo geriau išplaksite, tuo omletas bus puresnis.
+
+2. Įkaitinkite keptuvę
+Pasirinkite nelimpančią keptuvę (geriausia 20–24 cm skersmens).
+Įdėkite sviestą ir kaitinkite ant vidutinės ugnies, kol jis išsilydys ir ims lengvai putoti.
+⚠️ Nepalikite sviesto per ilgai – jei ims ruduoti, omletas gali įgauti kartoką skonį.
+
+3. Kepkite omletą
+Supilkite kiaušinių mišinį į karštą keptuvę.
+Kai kraštai pradeda stingti, lengvai pakelkite juos mentele, leisdami skystai masei nutekėti į apačią.
+Kepkite apie 2–3 minutes, kol omletas bus beveik iškepęs, bet dar šiek tiek drėgnas viršuje.
+
+4. Sulenkite ir patiekite
+Kai omletas pasieks norimą konsistenciją, perlenkite jį pusiau.
+Perkelkite į lėkštę ir patiekite iš karto, kol dar karštas ir purus.
+
+🍽️ Patarimai:
+Jei norite dar puresnio omleto, atskirai išplakite kiaušinių baltymus iki lengvų putų ir atsargiai įmaišykite į trynius su pienu prieš kepdami.
+Vietoj paprastos druskos galite naudoti žolelių druską ar žiupsnelį muskato aromatui.
+Skonis puikiai dera su šviežiomis žolelėmis, tarkuotu sūriu ar pomidoriukais šone.
+
+🌿 Variacijos:
+Sūrio omletas: įmaišykite 2 šaukštus tarkuoto sūrio prieš kepant.
+Pieniškas „scrambled eggs“ variantas: vietoj vientiso omleto kepkite ant mažesnės ugnies, nuolat maišydami, kol gausite minkštą kiaušinių „košelę“.
+Saldesnis variantas (pusryčiams su uogomis): vietoj druskos dėkite žiupsnelį cukraus ir patiekite su medumi ar uogiene.
