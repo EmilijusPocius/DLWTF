@@ -9,21 +9,43 @@ Receptas: Pomidorų makaronai
 4. Sumaišyk su makaronais ir pabarstyk baziliku.
 
 Prompt: 
-Sugeneruok receptą naudojant ingredientus: makaronai, pomidorai, česnakas, alyvuogių aliejus, bazilikas.
+Padaryk detalų receptą iš šių ingredientų: makaronai, pomidorai, česnakas, alyvuogių aliejus, bazilikas.
 
 GPT: 
-🍝 Makaronai su pomidorais ir česnaku
-Ingredientai:
-200 g makaronų
-3 prinokę pomidorai
-2 skiltelės česnako
+🍝 Makaronai su pomidorais, česnaku ir baziliku
+🧂 Ingredientai (2 porcijoms):
+200 g makaronų (spaghetti, penne ar jūsų mėgstami)
+3–4 vidutinio dydžio švieži pomidorai (arba ~400 g konservuotų smulkintų pomidorų)
+2–3 skiltelės česnako
 2 šaukštai alyvuogių aliejaus
-keli baziliko lapeliai
-žiupsnelis druskos
+5–6 šviežios baziliko lapeliai
+Druska pagal skonį
+(Papildomai, jei norite: šiek tiek juodųjų pipirų ar tarkuoto sūrio)
 
-Gaminimas:
-Išvirk makaronus pasūdytame vandenyje.
-Keptuvėje įkaitink alyvuogių aliejų, apkepk smulkintą česnaką.
-Sudėk pjaustytus pomidorus, troškink kelias minutes.
-Įmaišyk virtus makaronus, pagardink druska ir baziliku.
-Patiek karštus, galima pabarstyti sūriu.
+👩‍🍳 Gaminimo eiga:
+1. Paruoškite makaronus
+Užvirkite didelį puodą vandens.
+Įpilkite šaukštelį druskos.
+Sudėkite makaronus ir virkite pagal pakuotės instrukcijas (dažniausiai 8–12 min), kol bus „al dente“.
+Išvirus, nukelkite ~1/2 stiklinės makaronų vandens (galima panaudoti padažui skiest), tada nusausinkite makaronus.
+
+2. Paruoškite pomidorų ir česnako padažą
+Pomidorus nuplaukite ir supjaustykite kubeliais. Jei naudojate konservuotus pomidorus, tiesiog atidarykite skardinę.
+Česnaką nulupkite ir smulkiai supjaustykite arba sutrinkite.
+Į keptuvę įpilkite alyvuogių aliejaus ir ant vidutinės ugnies švelniai pakepinkite česnaką ~1 min, kol atsiskleis aromatas, bet neperkeps (nes sudegs ir taps kartus).
+Į keptuvę suberkite pomidorus. Sumažinkite ugnį ir troškinkite 8–10 min, kol pomidorai suminkštės ir padažas sutirštės.
+Pagardinkite druska (ir pipirais, jei norite).
+
+3. Sumaišykite su makaronais
+Į padažą sudėkite išvirtus makaronus.
+Jei padažas per tirštas, įpilkite šiek tiek nukelto makaronų vandens, kad gautųsi norima konsistencija.
+Įmaišykite šviežius baziliko lapelius (arba pabaigoje uždėkite ant viršaus).
+
+4. Patiekimas
+Patiekite karštą.
+Papuoškite šviežiu baziliku ir, jei turite, pabarstykite šiek tiek tarkuoto sūrio.
+
+🌿 Patarimai ir variacijos:
+Norint intensyvesnio skonio, galite uždegti pomidorus ant aukštesnės ugnies ir šiek tiek karamelizuoti prieš pilant į padažą.
+Jei norite „italų restorano“ pojūčio, prieš patiekiant įlašinkite 1 arbatinį šaukštelį alyvuogių aliejaus ant viršaus.
+Panašiai pagamintą patiekalą galima papildyti kaparėliais, alyvuogėmis ar čili pipirais, kad taptų pikantiškesnis.
