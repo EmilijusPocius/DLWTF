@@ -1,0 +1,25 @@
+X: 
+kiaušiniai, pienas, druska, sviestas
+
+Y: 
+Receptas: Plakta kiaušinienė
+1. Įmušk kiaušinius į dubenį.
+2. Įpilk šlakelį pieno ir įberk druskos.
+3. Išplak ir kepk svieste, kol sutirštės.
+
+Prompt: 
+Sugeneruok receptą naudojant ingredientus: kiaušiniai, pienas, druska, sviestas.
+
+GPT: 
+🍳 Paprasta kiaušinienė su pienu
+Ingredientai:
+3 kiaušiniai
+50 ml pieno
+žiupsnelis druskos
+1 šaukštas sviesto
+
+Gaminimas:
+Dubenyje išplak kiaušinius su pienu ir druska.
+Keptuvėje ištirpink sviestą ant vidutinės ugnies.
+Supilk kiaušinių masę ir kepk maišydamas, kol sutirštės.
+Patiek šiltą, galima su duona ar pomidorais.

@@ -1,0 +1,26 @@
+X: 
+avižiniai dribsniai, medus, riešutai, bananai
+
+Y: 
+Receptas: Sveiki avižiniai sausainiai
+1. Sutrink bananus, sumaišyk su medumi.
+2. Įmaišyk avižinius dribsnius ir riešutus.
+3. Formuok sausainius, kepk 180°C ~15 min.
+
+Prompt: 
+Sugeneruok receptą naudojant ingredientus: avižiniai dribsniai, medus, riešutai, bananai.
+
+GPT: 
+🥣 Avižinė košė su bananais, medumi ir riešutais
+Ingredientai:
+1 stiklinė avižinių dribsnių
+2 stiklinės vandens arba pieno
+1 bananas
+1 šaukštelis medaus
+saujelė riešutų
+
+Gaminimas:
+Užvirk vandenį ar pieną, suberk avižinius dribsnius.
+Virk maišydamas, kol sutirštės.
+Įmaišyk pjaustytą bananą ir medų.
+Patiek su smulkintais riešutais ant viršaus.

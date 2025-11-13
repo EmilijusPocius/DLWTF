@@ -1,0 +1,29 @@
+X: 
+makaronai, pomidorai, česnakas, alyvuogių aliejus, bazilikas
+
+Y: 
+Receptas: Pomidorų makaronai
+1. Išvirk makaronus.
+2. Keptuvėje apkepk česnaką su aliejumi.
+3. Įdėk pjaustytus pomidorus, pavirk.
+4. Sumaišyk su makaronais ir pabarstyk baziliku.
+
+Prompt: 
+Sugeneruok receptą naudojant ingredientus: makaronai, pomidorai, česnakas, alyvuogių aliejus, bazilikas.
+
+GPT: 
+🍝 Makaronai su pomidorais ir česnaku
+Ingredientai:
+200 g makaronų
+3 prinokę pomidorai
+2 skiltelės česnako
+2 šaukštai alyvuogių aliejaus
+keli baziliko lapeliai
+žiupsnelis druskos
+
+Gaminimas:
+Išvirk makaronus pasūdytame vandenyje.
+Keptuvėje įkaitink alyvuogių aliejų, apkepk smulkintą česnaką.
+Sudėk pjaustytus pomidorus, troškink kelias minutes.
+Įmaišyk virtus makaronus, pagardink druska ir baziliku.
+Patiek karštus, galima pabarstyti sūriu.
